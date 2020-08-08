@@ -1,5 +1,5 @@
 
-## This is a _linked_ Makefile for Ian's Data Lunch repo
+## This is a _linked_ Makefile for …
 ## 
 
 current: target
