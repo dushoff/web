@@ -1,6 +1,4 @@
-
-## This is a _linked_ Makefile for …
-## 
+## This is a _linked_ Makefile for data_lunch 
 
 current: target
 -include target.mk
