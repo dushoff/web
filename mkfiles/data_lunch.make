@@ -10,6 +10,8 @@ vim_session:
 
 ######################################################################
 
+Sources += README.md AssortedSundryLinks.md StatisticsResourcesToGetStarted.md
+
 ### Makestuff
 
 ## Sources += $(wildcard *.mk)
