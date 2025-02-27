@@ -14,5 +14,5 @@ XX. data_lunch: https://github.com/idworkin/McMasterDataLunch.git
 
 bolkerweb: https://github.com/bbolker/website.git
 
-XX. makeIntro2025:  https://github.com/dushoff/makeIntro2025.git
+XX. makeIntro2025:  https://github.com/mac-theobio/makeIntro2025.git
 XX. makeTest:  https://github.com/dushoff/makeExample.git
