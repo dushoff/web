@@ -13,3 +13,6 @@ XX. mtcovid:  https://github.com/mac-theobio/covid19-projects.git
 XX. data_lunch: https://github.com/idworkin/McMasterDataLunch.git
 
 bolkerweb: https://github.com/bbolker/website.git
+
+## Delete this repo?
+makeExample: makeExample2025
