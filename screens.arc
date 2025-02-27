@@ -14,4 +14,9 @@ XX. data_lunch: https://github.com/idworkin/McMasterDataLunch.git
 
 bolkerweb: https://github.com/bbolker/website.git
 
+<<<<<<< HEAD
 XX. makeIntro2025:  https://github.com/dushoff/makeIntro2025.git
+=======
+## Delete this repo?
+makeExample: makeExample2025
+>>>>>>> 6587f5bf529b10c4ad50341170faf963d544af77
